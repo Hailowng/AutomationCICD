@@ -1,0 +1,8 @@
+demoTest\Resources\ExtentReportNG.class
+demoTest\PageObject\CartPage.class
+demoTest\PageObject\OrderPage.class
+demoTest\PageObject\LandingPage.class
+demoTest\PageObject\ConfirmationPage.class
+demoTest\PageObject\CheckoutPage.class
+demoTest\AbstractComponents\AbstractComponents.class
+demoTest\PageObject\ProductCatalogue.class
